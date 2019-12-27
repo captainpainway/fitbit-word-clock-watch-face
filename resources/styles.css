@@ -1,0 +1,93 @@
+.background {
+    viewport-fill: black;
+}
+
+text {
+    font-size: 30;
+    font-family: System-Bold;
+    text-length: 1;
+    text-anchor: middle;
+    fill: #222222;
+}
+
+.off {
+    fill: #222222;
+}
+.on {
+    fill: #00f9ff;
+}
+
+.row1 {
+    y: 20;
+}
+.row2 {
+    y: 47;
+}
+.row3 {
+    y: 74;
+}
+.row4 {
+    y: 101;
+}
+.row5 {
+    y: 128;
+}
+.row6 {
+    y: 155;
+}
+.row7 {
+    y: 182;
+}
+.row8 {
+    y: 209;
+}
+.row9 {
+    y: 236;
+}
+.row10 {
+    y: 263;
+}
+.row11 {
+    y: 290;
+}
+.row12 {
+    y: 317;
+}
+
+.col1 {
+    x: 10;
+}
+.col2 {
+    x: 35;
+}
+.col3 {
+    x: 60;
+}
+.col4 {
+    x: 85;
+}
+.col5 {
+    x: 110;
+}
+.col6 {
+    x: 135;
+}
+.col7 {
+    x: 160;
+}
+.col8 {
+    x: 185;
+}
+.col9 {
+    x: 210;
+}
+.col10 {
+    x: 235;
+}
+.col11 {
+    x: 260;
+}
+.col12 {
+    x: 285;
+}
+
